@@ -1,6 +1,6 @@
 # flask-blog-sample
 
-Run a virtual env, and next: 
+Run a virtual env and next: 
 
 pip install -e .
 
